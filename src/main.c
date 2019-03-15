@@ -1,7 +1,7 @@
 /**
   ******************************************************************************
   * @file    main.c
-  * @author  Ac6
+  * @author  Adam
   * @version V1.0
   * @date    01-December-2013
   * @brief   Default main function.
